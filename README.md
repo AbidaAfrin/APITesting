@@ -41,3 +41,6 @@ Newman Install Command:
 4. Delete Booking : Delete a created booking
    
 ## Newman Report Summary:
+![report](https://github.com/AbidaAfrin/APITesting/assets/126371236/3370ca66-cdbd-45ab-9eae-366b21882b8d)
+![report1](https://github.com/AbidaAfrin/APITesting/assets/126371236/08c7d9a7-5d07-445d-8e2f-cfd008cb3142)
+
