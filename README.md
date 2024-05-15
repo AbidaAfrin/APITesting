@@ -1,5 +1,5 @@
 # APITesting
-This project includess API tests for Restful Booker demo website. Tests include create, retrieve, update, and delete booking using HTTP requests.
+This repository contains API tests for Restful Booker demo website(https://restful-booker.herokuapp.com)- an API playground which allows to perform all CRUD methods. The tests were created and performed in Postman and then exported to JSON files.
 
 ## How to run this project
 
