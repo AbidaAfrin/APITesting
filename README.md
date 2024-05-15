@@ -1,4 +1,5 @@
 # APITesting
+This project includess API tests for Restful Booker demo website. Tests include create, retrieve, update, and delete booking using HTTP requests.
 
 ## How to run this project
 
