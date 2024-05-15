@@ -35,6 +35,9 @@ Newman Install Command:
 ```bash
   npm install -g newman-reporter-htmlextra
 ```
+
+## API Documentation
+The documentation can be found at https://restful-booker.herokuapp.com/apidoc/index.html
 ## Test case list:
 1. Create Booking : Create a new booking in the API
 2. Get Booking : Return a specific booking based upon the booking id provided
