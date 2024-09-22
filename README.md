@@ -24,7 +24,7 @@ This repository contains API tests for Restful Booker demo website(https://restf
 - Newman
 - Html Report Library
 
-## Newman and Report Installation Process:
+## 🗃️ Newman and Report Installation Process
 
 Newman Install Command:
 
