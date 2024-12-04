@@ -1,5 +1,5 @@
 # APITesting
-This repository contains API tests for Restful Booker demo website(https://restful-booker.herokuapp.com)- an API playground which allows to perform all CRUD methods. The tests were created and performed in Postman and then exported to JSON files.
+This repository contains API tests for Restful Booker demo website(https://restful-booker.herokuapp.com )- an API playground which allows to perform all CRUD methods. The tests were created and performed in Postman and then exported to JSON files.
 
 ## How to run this project
 
